@@ -107,4 +107,5 @@ mod/test.py
 .idea/
 picklefile.pkl
 log.txt
-99. 高等统计-统计.ipynb
+99. test.ipynb
+/tk.csv
