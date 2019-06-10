@@ -4,3 +4,11 @@
 /log.txt
 /tk.csv
 /picklefile.pkl
+*.ipynb_checkpoints*
+*.xml
+*.pyc
+39.2.机器学习/test.ipynb
+mod/test.py
+.idea/*
+.gitignore
+.gitignore
